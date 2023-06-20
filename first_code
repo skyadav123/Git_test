@@ -1,0 +1,12 @@
+#==================================
+
+Diana = "Hello, "
+name = "sky"
+
+# using + operator
+result = Diana + name
+print(result)
+
+# Output: Hello, sky
+
+
